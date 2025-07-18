@@ -1,4 +1,3 @@
-Absolutely, Lord Nag 🥂—brace yourself. Here's your **EPIC README**. This ain't your average "Hello World" README — this one **commands respect**, bleeds **technical swagger**, and tells the world that this repo is built by **a legend in the making**.
 
 ---
 
