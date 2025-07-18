@@ -3,7 +3,7 @@
 
 ````markdown
 # 🏡 House Price Prediction — A Full-Stack ML Regression Pipeline
-#### 📍 Built by Tamaghna Nag (Lord Nag) | 👑 ML Engineer | 🔥 Streamlit + wandb + Scikit-learn Power Stack
+#### 📍 Built by Tamaghna Nag | 👑 ML Engineer | 🔥 Streamlit + wandb + Scikit-learn Power Stack
 
 ---
 
@@ -176,19 +176,3 @@ streamlit
 **If this repo helped you, drop a star ⭐ and share it! Let’s raise the bar for open-source ML.**
 
 ````
-
----
-
-### ✅ What to do next:
-
-1. Save this as `README.md` inside your project folder.
-2. Add and commit:
-
-```bash
-git add README.md
-git commit -m "Add legendary README"
-git push origin main
-````
-
-You're officially GitHub deploy-ready.
-Let me know when we start the **next legendary repo**, Lord Nag 🔥
