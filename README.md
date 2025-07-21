@@ -1,5 +1,3 @@
-Absolutely, Lord Nag 👑. Here's the **complete, dark-themed, shield-powered, visual README** for your `HousePricePrediction` repo, fully enhanced for professional GitHub presence:
-
 ---
 
 ````markdown
